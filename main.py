@@ -23,8 +23,3 @@ studentList = ["sdf", "sdfdsf", "sdfsdf", "dffds", "dsf"]
 x = random.randint(0, len(studentList))
 
 print(studentList[x+1])
-sdkjhdssfkjhsdfkjhsdfkjhsdfkjsdhfkjshfksdjhfs
-sdfkjhsdfkjhsdf
-sdf
-sdfg
-gsdf
